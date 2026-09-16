@@ -1,0 +1,3 @@
+Ghi chu bai tap Git co ban.
+
+Ghi chu bo sung cho buoc 3.
